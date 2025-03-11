@@ -1,0 +1,3 @@
+title, body, labels, assignees, milestone
+"Default Git branch has ""testing"" name","Should follow ALA convention of ""develop"" being the main branch and ""master"" being the ""production"" branch", cicd,,
+"Missing software license file", "Needs a file in root dir called LICENSE that contains the Mozilla 1.1 license text", documentation,,
