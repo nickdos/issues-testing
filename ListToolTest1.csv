@@ -1,0 +1,5 @@
+Summary,Category,Size (S/M/L),Details,Link,priority,Status / comment
+"Default Git branch is ""testing""",source,size-S ,"Should follow ALA convention of ""develop"" being the main branch and ""master"" being the ""production"" branch",https://github.com/AtlasOfLivingAustralia/species-lists/branches,priority-high,
+Missing software license file,legal,size-S,"Needs a file in root dir called LICENSE, that contains the Mozilla 1.1 license text",,priority-med,
+List-ui README incomplete,documentation,size-S,"README file appears to be a copy and paste from another React repo and is not specific to this project. Needs to provide general information on the software and how to run it locally (including local config). Also should mention this is a replacement for the specieslist-webapp project, with link to older repo.",,priority-med,
+.DS_Store file in project root,source,size-S ,Needs to be removed from repo and .gitignore updated to prevent future commits for this Mac FS metadata file. ,,priority-high,
